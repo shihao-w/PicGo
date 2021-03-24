@@ -1,0 +1,2 @@
+# PicGo
+connect PicGo
